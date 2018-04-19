@@ -1,0 +1,176 @@
+
+*{
+	padding:0;
+	margin:0;
+
+}
+a{
+	text-decoration:none;
+}
+
+.inline_block{display:inline-block;}
+.text_center{text-align:center;}
+.add_block{display:block;}
+.inline_block{display:inline-block;}
+.inline_dis{display:inline;}
+.back_color{background-color:#f6f9f9;}
+
+.text_not_center{text-align:left;}
+
+
+header{
+	height: 99px;
+}
+
+
+.header_box{
+	display:inline-block;
+	width:1170px;
+	height:99px; 
+}
+
+.logo{
+		font-size:33px;
+		width:197px;
+		height:99px;  
+		font-family:forte;
+		background-image:url(../images/logo.jpg);
+		background-repeat: no-repeat;  
+		display:block; 
+		display:inline-block; 
+}
+
+.logo_box{
+	margin-left:42px;
+	float:left; 
+}
+
+.logo_text{
+	margin-top:30px; 
+	margin-left:50px; 
+}
+
+.top_menu{
+	color:#264951;
+	font-family:Arial;
+	font-weight:bold; 
+	float:left;
+	margin-top:30px; 
+	margin-left:69px; 
+	font-size:33px;
+}
+
+
+a:link, a:visited{
+	text-decoration:none;
+	color:#264951;
+}
+
+
+.back_pic{
+		font-family:Cambria;
+		background: url(../images/back2.jpg);
+		height:667px;
+		width:1170px;
+		display:block;
+		display:inline-block;
+		color:white;
+}
+
+.back_pic h1{
+		margin-top:240px;
+		font-size:66px;
+		border-bottom:#15a4fa solid 2px;
+}
+
+
+.back_pic a{
+	border:#15a4fa solid 1px;
+	padding:10px;
+	color:white;
+	border-radius:3px;
+}
+
+.back_pic a:visited, .back_pic a:hover {color:white;}
+
+
+.my_info{
+	background-color:#f6f9f9;
+	height:340px;
+}
+
+h2{
+	display: block;
+	display:inline-block;
+	font-size:27px;
+	margin-top:84px;
+	font-family:Cambria;
+}
+
+.p_skill{
+	height:638px; 
+	width:1170px;
+	display:block;
+	display:inline-block;
+}
+
+#p_skill_text{
+	font-weight:normal;
+	font-size:29px;
+	color:black;
+	font-family:Cambria;
+	margin-top:87px;
+	display: block;
+	display:inline-block;
+}
+
+.p_logo{
+
+	margin-top:70px;
+	margin-left:145px;
+
+
+
+}
+.p_logo img {
+	vertical-align:middle;
+} 
+
+
+
+ul{
+	list-style-type: none;
+}
+
+
+footer{
+	height:90px;
+	background-color:#f6f9f9;
+
+	
+}
+
+.footer_box{
+
+	color:#999999;
+	height:90px;
+	width:1170px;
+	
+
+	display:block;
+	display:inline-block;
+
+
+}
+
+.footer_text{
+	margin-left:42px;
+	margin-top:25px;
+	
+
+
+}
+
+.footer_text img{
+		vertical-align:middle;
+}
